@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+}
+
+.song {
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+iframe {
+  max-width: 100%;
+  height: 315px;
+  margin-top: 10px;
+}
